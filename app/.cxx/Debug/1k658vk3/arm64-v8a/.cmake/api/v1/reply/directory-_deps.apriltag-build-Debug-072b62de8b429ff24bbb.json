@@ -1,0 +1,726 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 128,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 134,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 138,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 147,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/apriltag.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/apriltag_math.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/apriltag_pose.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/debug_print.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/doubles.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/doubles_floats_impl.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/floats.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/g2d.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/getopt.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/homography.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/image_types.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/image_u8.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/image_u8x3.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/image_u8x4.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/matd.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/math_util.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/pam.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/pjpeg.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/pnm.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/postscript_utils.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/pthreads_cross.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/string_util.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/svd22.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/time_util.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/timeprofile.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/unionfind.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/workerpool.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/zarray.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/zhash.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag/common",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/common/zmaxheap.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/tag16h5.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/tag25h9.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/tag36h10.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/tag36h11.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 35,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/tagCircle21h7.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/tagCircle49h12.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 37,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/tagCustom48h12.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 38,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/tagStandard41h12.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 39,
+			"component" : "Unspecified",
+			"destination" : "include/apriltag",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src/tagStandard52h13.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 40,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/apriltag-build/libapriltagd.a"
+			],
+			"targetId" : "apriltag::@0c4e820c452ff953d492",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 41,
+			"component" : "Unspecified",
+			"destination" : "share/apriltag/cmake",
+			"exportName" : "apriltagTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "apriltag::@0c4e820c452ff953d492",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/apriltag-build/CMakeFiles/Export/share/apriltag/cmake/apriltagTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 42,
+			"component" : "Unspecified",
+			"destination" : "share/apriltag/cmake",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-build/generated/apriltagConfig.cmake",
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-build/generated/apriltagConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 43,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-build/apriltag.pc"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/apriltag-build",
+		"source" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-src"
+	}
+}

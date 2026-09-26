@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/CMakeFiles/apriltag-populate"
+		},
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/CMakeFiles/apriltag-populate.rule"
+		},
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/CMakeFiles/apriltag-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/apriltag-populate-prefix/src/apriltag-populate-stamp/apriltag-populate-build.rule"
+		},
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/apriltag-populate-prefix/src/apriltag-populate-stamp/apriltag-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/apriltag-populate-prefix/src/apriltag-populate-stamp/apriltag-populate-download.rule"
+		},
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/apriltag-populate-prefix/src/apriltag-populate-stamp/apriltag-populate-install.rule"
+		},
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/apriltag-populate-prefix/src/apriltag-populate-stamp/apriltag-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/apriltag-populate-prefix/src/apriltag-populate-stamp/apriltag-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/apriltag-populate-prefix/src/apriltag-populate-stamp/apriltag-populate-test.rule"
+		},
+		{
+			"file" : "/home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a/_deps/apriltag-subbuild/apriltag-populate-prefix/src/apriltag-populate-stamp/apriltag-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"apriltag-populate"
+		],
+		"name" : "apriltag-populate"
+	}
+}

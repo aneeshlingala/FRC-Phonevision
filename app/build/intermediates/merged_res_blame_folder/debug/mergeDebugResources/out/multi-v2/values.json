@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.phonevision.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/aneesh/.gradle/caches/9.5.1/transforms/6cbbea422daac9e89d63153dc66d9322/transformed/opencv-5.0.0.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    }
+                }
+            ]
+        }
+    ]
+}

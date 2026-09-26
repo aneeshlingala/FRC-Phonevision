@@ -1,0 +1,14 @@
+{
+  "fileName": "PhoneVision.json",
+  "name": "PhoneVision",
+  "version": "1.0.0",
+  "uuid": "f677f28e-0c23-4f8f-8e87-f6215931ffac",
+  "frcYear": "2026",
+  "mavenUrls": [],
+  "jsonUrl": "",
+  "javaDependencies": [
+    { "groupId": "org.phonevision", "artifactId": "PhoneVision-java", "version": "1.0.0" }
+  ],
+  "jniDependencies": [],
+  "cppDependencies": []
+}

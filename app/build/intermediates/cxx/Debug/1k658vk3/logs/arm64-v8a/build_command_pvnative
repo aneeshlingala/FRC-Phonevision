@@ -1,0 +1,4 @@
+/home/aneesh/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/aneesh/phonevisionstuff/FRC-Phonevision-main/app/.cxx/Debug/1k658vk3/arm64-v8a \
+  pvnative

@@ -1,0 +1,6 @@
+org.phonevision:styleable/CameraBridgeViewBase = 0x7f030000
+org.phonevision:id/front = 0x7f020002
+org.phonevision:id/any = 0x7f020000
+org.phonevision:attr/show_fps = 0x7f010001
+org.phonevision:id/back = 0x7f020001
+org.phonevision:attr/camera_id = 0x7f010000
